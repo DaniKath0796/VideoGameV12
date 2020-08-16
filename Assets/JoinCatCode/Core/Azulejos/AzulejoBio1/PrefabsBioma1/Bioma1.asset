@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 18d5bac0ed66c554fbfc32998975a58b, type: 3}
+  m_Name: Bioma1
+  m_EditorClassIdentifier: 
+  identificador: 1
+  superficie: {fileID: 11400000, guid: 1b848c48be963654c92e32d27012d484, type: 2}
+  lateral: {fileID: 11400000, guid: 43ae8fe461892744e8d0e15e059a3535, type: 2}
+  lateral2: {fileID: 11400000, guid: da236accac978604fa7363b8537fb54d, type: 2}
+  esquinaX2: {fileID: 11400000, guid: 19ac6b1a79df5cd46b672d3eab7b098e, type: 2}
+  esquinaX3: {fileID: 11400000, guid: 0717c407c3659b14b933c7cc9c44797c, type: 2}
+  esquinaX4: {fileID: 11400000, guid: 77573c56308b1f545be520cc379d1ba6, type: 2}
+  esquinaInterna: {fileID: 11400000, guid: 76364c250ecfa4a4088ade1547a0e435, type: 2}
